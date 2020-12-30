@@ -1,0 +1,14 @@
+{ "id":"",
+  "title": "",
+  "description": "",
+  "actions": [
+    {
+      "assets": [],
+      " parameters": [],
+      "value": [],
+      "server-time": true
+    },
+    { "assets": [], " parameters": [], "value": [], "server-time": true }
+  ],
+  "schedule": {}
+}
