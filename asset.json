@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "id": "1",
+      "itemName": "1",
+      "tages": ["tag1", "tag2"]
+    },
+    {
+      "id": "2",
+      "itemName": "",
+      "tages": ["tag1", "tag2", "tag3"]
+    },
+    {
+      "id": "3",
+      "itemName": "",
+      "tages": ["tag1"]
+    }
+  ]
+}

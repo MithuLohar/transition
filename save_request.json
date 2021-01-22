@@ -1,0 +1,97 @@
+{
+  "Type": "",
+  "name": "",
+  "site_id": "",
+  "data": {
+    "general_info": {
+      "name": "",
+      "description": ""
+    },
+
+  "actions": [
+    {
+    "assets": [
+        {
+          "id": null,
+          "itemName": null
+        },
+        
+      ],
+      "tags": [
+        {
+          "id": null,
+          "assetId":null,
+          "itemName": null
+        }
+      ],
+      "value": null
+       
+         
+
+          
+       
+    
+    }
+  ],
+     
+    
+    "schedules": {
+      "enabled": false,
+      "dayType": "",
+      "minutes": [
+        {
+          "id": "1",
+          "itemName": "1"
+        },
+        {
+          "id": "2",
+          "itemName": "2"
+        },
+        {
+          "id": "3",
+          "itemName": "3"
+        },
+        {
+          "id": "",
+          "itemName": ""
+        }
+      ],
+      "hours": [
+        {
+          "id": "02",
+          "itemName": "02"
+        },
+        {
+          "id": "",
+          "itemName": ""
+        }
+      ],
+
+      "months": [
+        {
+          "id": "1",
+          "itemName": "January"
+        },
+        {
+          "id": "2",
+          "itemName": "febrary"
+        }
+      ],
+      "startDate": "03-12-2020",
+      "startDateVal": "2020-12-03T09:33:11.000Z",
+      "endDate": "01-12-2020",
+      "endDateVal": "2020-12-01T09:33:11.000Z",
+      "dashboardId": "Reports2001",
+      "day": [
+        {
+          "id": "sun",
+          "itemName": "Sunday"
+        },
+        {
+          "id": "mon",
+          "itemName": "Monday"
+        }
+      ]
+    }
+  }
+}
